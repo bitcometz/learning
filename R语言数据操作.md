@@ -7,7 +7,10 @@ R语言调用函数都是非常方便，痛点往往在于如何把数据整理�
 
 ## R中的数据
 R语言的对象（Objects）主要包括向量、矩阵、数组、数据框和列表。
+
 ![image](https://github.com/bitcometz/images/blob/master/R_duixiang.png)
+
+R中每一个对象包含多个属性来描述该对象中的信息的性质，其中最重要的两个属性是模式和类。
 
 
 
